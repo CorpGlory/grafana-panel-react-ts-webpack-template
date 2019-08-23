@@ -1,0 +1,22 @@
+{
+  "type": "panel",
+  "name": "React Plugin Template Name",
+  "id": "grafana-panel-template-react-ts-webpack",
+  "info": {
+    "description": "React Plugin Template Description",
+    "author": {
+      "name": "Author Name",
+      "url": "example.com"
+    },
+    "keywords": [ ],
+    "logos": { },
+    "links": [ ],
+    "screenshots": [ ],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.x",
+    "plugins": [ ]
+  }
+}

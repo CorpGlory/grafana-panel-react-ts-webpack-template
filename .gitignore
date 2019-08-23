@@ -1,0 +1,13 @@
+dist
+
+package-lock.json
+node_modules
+
+# Editor junk
+*.swp
+.idea/
+*.iml
+
+.notouch
+.DS_Store
+.tscache
